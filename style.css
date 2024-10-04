@@ -26,7 +26,7 @@
     border-radius: 5px;
 }
 .boton:hover{
-    background: linear-gradient(to right,#2600ff,#1f08a0,#020138);
+    background: linear-gradient(to right,#ff0000,#fbff00,#00ff00);
 }
 .boton:active{
     font-size: 20px;
