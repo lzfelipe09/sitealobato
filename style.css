@@ -20,13 +20,13 @@
     top: 20px;
     left: 0px;
     padding: 10px 20px;
-    background-color: blue;
+    background-color: rgb(238, 255, 0);
     color: rgb(244, 248, 251);
     text-decoration: none;
     border-radius: 5px;
 }
 .boton:hover{
-    background: linear-gradient(to right,#eb0f0f,#e3f60f,#1df64f);
+    background: linear-gradient(to right,#929292,#707070,#3a3a3a);
 }
 .boton:active{
     font-size: 20px;
